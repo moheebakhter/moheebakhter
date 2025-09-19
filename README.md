@@ -1,16 +1,38 @@
-## Hi there 👋
+# Hi there, I'm Syed Moheeb Akhter 👋  
 
-<!--
-**moheebakhter/moheebakhter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **Frontend Developer | MERN Stack Learner | Python Enthusiast**  
+💡 Focused on learning and building real-world projects step by step.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Skills & Learning Path
+- **Frontend:** HTML | CSS | JavaScript  
+- **Currently Learning:** React, Node.js, Express, MongoDB  
+- **Exploring:** Python basics, problem solving, Git & GitHub  
+
+---
+
+### 📊 GitHub Stats
+![Moheeb's GitHub stats](https://github-readme-stats.vercel.app/api?username=moheebakhter&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=moheebakhter&layout=compact&theme=radical)  
+
+---
+
+### 🌱 What I’m Working On
+- Practicing **Frontend Projects** (HTML, CSS, JS)  
+- Building small **MERN Stack projects** to strengthen concepts  
+- Preparing for developer opportunities and internships  
+
+---
+
+### 📌 Goals for 2025
+- ✅ Complete JavaScript mastery  
+- ✅ Build and deploy a Portfolio Website  
+- ✅ Learn MERN Stack end-to-end  
+- ✅ Contribute to Open Source  
+
+---
+
+### 📫 Connect With Me
+📍 Karachi, Pakistan  
+✉️ Reach me here on GitHub (more links coming soon...)  
