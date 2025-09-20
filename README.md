@@ -1,6 +1,6 @@
 <h1 align="center">⚡ Syed Moheeb Akhter ⚡</h1>
 
-<h2 align="center">**Frontend Developer | MERN Stack Explorer | Python Enthusiast**</h2>
+<h2 align="center">Frontend Developer | MERN Stack Explorer | Python Enthusiast</h2>
 
 <h2 align="center">🌍 Passionate about building creative digital experiences and solving problems through clean, efficient code.</h2>
 
