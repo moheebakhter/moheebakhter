@@ -1,41 +1,58 @@
-# Hi there, I'm Syed Moheeb Akhter 👋  
+# ⚡ Syed Moheeb Akhter ⚡  
 
-🚀 **Frontend Developer | MERN Stack Learner | Python Enthusiast**  
-💡 Focused on learning and building real-world projects step by step.  
+**Frontend Developer | MERN Stack Explorer | Python Enthusiast**  
 
----
-
-### 🛠️ Skills & Learning Path
-- **Frontend:** HTML | CSS | JavaScript  
-- **Currently Learning:** React, Node.js, Express, MongoDB  
-- **Exploring:** Python basics, problem solving, Git & GitHub  
+🌍 Passionate about building creative digital experiences and solving problems through clean, efficient code.  
 
 ---
 
-### 📊 GitHub Stats
+<img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="400" align="center">
+
+---
+
+## 🤔 Who Am I?  
+- 🚀 A learner turning ideas into code  
+- 🎨 Frontend Developer skilled in **HTML, CSS, JavaScript**  
+- 🌱 Exploring **React, Node.js, Express, MongoDB**  
+- 🐍 Python basics & problem-solving enthusiast  
+- 📈 Always curious about **AI, Cloud & Open Source**  
+
+---
+
+## 📊 GitHub Stats  
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=moheebakhter&show_icons=true&theme=radical" height="150"/>
   &nbsp;&nbsp;
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=moheebakhter&layout=compact&theme=radical" height="150"/>
+</p>  
+
+---
+
+## 🛠️ Tech Stack  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,python,git,github,linux,docker,aws" />
 </p>
 
 ---
 
-### 🌱 What I’m Working On
-- Practicing **Frontend Projects** (HTML, CSS, JS)  
-- Building small **MERN Stack projects** to strengthen concepts  
-- Preparing for developer opportunities and internships  
+## 🌱 What I’m Working On  
+- Developing **Frontend Projects** (HTML, CSS, JS)  
+- Building small **MERN Stack projects**  
+- Preparing for **internships & opportunities**  
 
 ---
 
-### 📌 Goals for 2025
-- ✅ Complete JavaScript mastery  
-- ✅ Build and deploy a Portfolio Website  
+## 🎯 Goals for 2025  
+- ✅ Master JavaScript  
+- ✅ Build & deploy a Portfolio Website  
 - ✅ Learn MERN Stack end-to-end  
 - ✅ Contribute to Open Source  
 
 ---
 
-### 📫 Connect With Me
-📍 Karachi, Pakistan  
-✉️ Reach me here on GitHub (more links coming soon...)  
+## 🔥 Let’s Connect  
+<p align="center">
+  <a href="https://github.com/moheebakhter"><img src="https://img.shields.io/badge/GitHub-333?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:yourmail@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
