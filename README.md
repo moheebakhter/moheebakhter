@@ -13,8 +13,11 @@
 ---
 
 ### 📊 GitHub Stats
-![Moheeb's GitHub stats](https://github-readme-stats.vercel.app/api?username=moheebakhter&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=moheebakhter&layout=compact&theme=radical)  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=moheebakhter&show_icons=true&theme=radical" height="150"/>
+  &nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=moheebakhter&layout=compact&theme=radical" height="150"/>
+</p>
 
 ---
 
