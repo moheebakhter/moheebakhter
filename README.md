@@ -7,7 +7,7 @@
 ---
 
 <p align="center">
-  <img src="https://cdn-icons-png.flaticon.com/512/1995/1995574.png" width="300" alt="Developer illustration"/>
+  <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="400" alt="Developer at work"/>
 </p>
 
 
