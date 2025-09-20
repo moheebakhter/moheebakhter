@@ -57,6 +57,6 @@
 ## 🔥 Let’s Connect  
 <p align="center">
   <a href="https://github.com/moheebakhter"><img src="https://img.shields.io/badge/GitHub-333?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:yourmail@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/syed-moheeb-akhter-2697a7221/"><img src="https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:moheebsyed25@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
