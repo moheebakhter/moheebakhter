@@ -14,7 +14,7 @@
 
 ---
 
-## 🤔 <h2> About Me: </h2>   
+##  <h2>🤔 About Me: </h2>   
 - 🚀 A learner turning ideas into code  
 - 🎨 Frontend Developer skilled in **HTML, CSS, JavaScript**  
 - 🌱 Exploring **React, Node.js, Express, MongoDB**  
