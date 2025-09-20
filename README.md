@@ -6,7 +6,9 @@
 
 ---
 
-<img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="400" align="center">
+<p align="center">
+  <img src="https://raw.githubusercontent.com/moheebakhter/moheebakhter/main/d83c24c5-bb2d-48ba-9470-46a6de5d04b3.png" width="400"/>
+</p>
 
 ---
 
